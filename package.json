@@ -2,7 +2,7 @@
   "title": "@pdftron/html2canvas",
   "name": "@pdftron/html2canvas",
   "description": "Apryse-maintained fork of html2canvas with compatibility fixes for Apryse SDK usage.",
-  "version": "1.0",
+  "version": "1.0.0",
   "author": {
     "name": "Niklas von Hertzen",
     "email": "niklasvh@gmail.com",
