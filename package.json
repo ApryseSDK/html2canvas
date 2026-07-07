@@ -1,14 +1,19 @@
 {
-  "title": "html2canvas",
-  "name": "html2canvas",
-  "description": "Screenshots with JavaScript",
-  "main": "dist/npm/index.js",
-  "version": "1.0.0-alpha.10",
+  "title": "@pdftron/html2canvas",
+  "name": "@pdftron/html2canvas",
+  "description": "Apryse-maintained fork of html2canvas with compatibility fixes for Apryse SDK usage.",
+  "version": "1.0",
   "author": {
     "name": "Niklas von Hertzen",
     "email": "niklasvh@gmail.com",
     "url": "https://hertzen.com"
   },
+  "contributors": [
+    {
+      "name": "Apryse Software Inc."
+    }
+  ],
+  "main": "dist/npm/index.js",
   "files": [
     "dist/**/*.js"
   ],
